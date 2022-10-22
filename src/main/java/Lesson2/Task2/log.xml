@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-22T08:08:29.289924Z</date>
+  <millis>1666426109289</millis>
+  <nanos>924000</nanos>
+  <sequence>0</sequence>
+  <logger>Lesson2.Task2.BubbleSort</logger>
+  <level>INFO</level>
+  <class>Lesson2.Task2.BubbleSort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 14, 7, 16]</message>
+</record>
+<record>
+  <date>2022-10-22T08:08:29.340523Z</date>
+  <millis>1666426109340</millis>
+  <nanos>523000</nanos>
+  <sequence>1</sequence>
+  <logger>Lesson2.Task2.BubbleSort</logger>
+  <level>INFO</level>
+  <class>Lesson2.Task2.BubbleSort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 11, 7, 14, 16]</message>
+</record>
+<record>
+  <date>2022-10-22T08:08:29.341045Z</date>
+  <millis>1666426109341</millis>
+  <nanos>45000</nanos>
+  <sequence>2</sequence>
+  <logger>Lesson2.Task2.BubbleSort</logger>
+  <level>INFO</level>
+  <class>Lesson2.Task2.BubbleSort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 7, 11, 14, 16]</message>
+</record>
+<record>
+  <date>2022-10-22T08:08:29.341479Z</date>
+  <millis>1666426109341</millis>
+  <nanos>479000</nanos>
+  <sequence>3</sequence>
+  <logger>Lesson2.Task2.BubbleSort</logger>
+  <level>INFO</level>
+  <class>Lesson2.Task2.BubbleSort</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>[3, 7, 11, 14, 16]</message>
+</record>
+</log>
