@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-10-24T06:04:14.220362Z</date>
+  <millis>1666591454220</millis>
+  <nanos>362000</nanos>
+  <sequence>0</sequence>
+  <logger>Lesson3.Task1.MergeSort</logger>
+  <level>INFO</level>
+  <class>Lesson3.Task2.OddNumbers</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Дан массив: [8, 7, 5]</message>
+</record>
+<record>
+  <date>2022-10-24T06:04:14.247337Z</date>
+  <millis>1666591454247</millis>
+  <nanos>337000</nanos>
+  <sequence>1</sequence>
+  <logger>Lesson3.Task1.MergeSort</logger>
+  <level>INFO</level>
+  <class>Lesson3.Task2.OddNumbers</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Нечетные элементы: [ 7, 5 ]</message>
+</record>
+</log>
