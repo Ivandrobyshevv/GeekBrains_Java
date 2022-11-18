@@ -2,9 +2,8 @@ package Lesson2.Task4;
 
 import Lesson2.Task2.BubbleSort;
 
-import javax.imageio.IIOException;
+
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.Formatter;
 import java.util.Scanner;
 import java.util.logging.FileHandler;

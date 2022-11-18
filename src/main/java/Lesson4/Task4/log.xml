@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-11-17T08:58:05.343382Z</date>
+  <millis>1668675485343</millis>
+  <nanos>382000</nanos>
+  <sequence>0</sequence>
+  <logger>Lesson2.Task2.BubbleSort</logger>
+  <level>INFO</level>
+  <class>Lesson4.Task4.PostfixNotation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Инфиксная запис5*8*(2+9)+(7*5+8-9*(5*5)+5)</message>
+</record>
+<record>
+  <date>2022-11-17T08:58:05.428906Z</date>
+  <millis>1668675485428</millis>
+  <nanos>906000</nanos>
+  <sequence>1</sequence>
+  <logger>Lesson2.Task2.BubbleSort</logger>
+  <level>INFO</level>
+  <class>Lesson4.Task4.PostfixNotation</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Постфиксная запись:58*29+*75*8+955**-5++</message>
+</record>
+</log>
